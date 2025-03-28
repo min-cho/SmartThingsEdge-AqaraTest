@@ -1,4 +1,10 @@
 zigbeeManufacturer:
+  - id: "CD-M03D"
+    deviceLabel: Aqara RollerShade Controller T1S
+    manufacturer: LUMI
+    model: lumi.curtain.vagl02
+    deviceProfileName: blind
+  # FOR COMPATIBILTIY TEST ONLY
   - id: "ZNCLDJ12LM"
     deviceLabel: Aqara Curtain B1
     manufacturer: LUMI
