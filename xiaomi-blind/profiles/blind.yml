@@ -38,7 +38,7 @@ preferences:
     preferenceType: boolean
     definition: 
       default: true
-  - title: "Reverse"
+  - title: "Reverse-custom"
     name: reverse
     required: true
     preferenceType: boolean
