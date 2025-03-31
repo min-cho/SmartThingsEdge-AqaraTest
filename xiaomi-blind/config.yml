@@ -1,4 +1,4 @@
-name: 'Xiaomi/Aqara Blinds 1.2'
-packageKey: 'lumi-blind'
+name: 'Aqara-rollershadeT1S-test'
+packageKey: 'lumi-blind-T1S-henriktest'
 permissions:
   zigbee: {}
